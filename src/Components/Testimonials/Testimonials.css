@@ -1,0 +1,10 @@
+.TCards-bot{
+    width: 30% !important;
+}
+
+
+@media (max-width:991px) {
+    .TCards-bot{
+        width: 60% !important;
+    }
+}

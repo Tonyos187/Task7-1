@@ -1,0 +1,13 @@
+.BCard-div-pos{
+    top: 60%;
+    left: 0;
+}
+.txt-sm{
+    font-size: 13px !important;
+}
+
+@media (max-width:991px){
+    .BCard-div-pos{
+        position: inherit !important;
+    }
+}

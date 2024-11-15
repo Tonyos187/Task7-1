@@ -1,0 +1,23 @@
+.cta-shape1-1{
+    top: 0;
+    left: 40%;
+}
+.fs-sm-btn{
+    font-size: 12px !important;
+}
+.ourP-div{
+    translate: 0 25%;
+}
+.diamond{
+    top: 3%;
+    right: 3%;
+}
+@media (max-width:991px) {
+    .cta-shape1-1{
+        left: -10%;
+        top: 50%;
+    }
+    .ourP-objects{
+        display: none;
+    }
+}

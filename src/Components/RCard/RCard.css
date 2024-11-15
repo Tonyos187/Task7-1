@@ -1,0 +1,10 @@
+.number-rcard{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    -webkit-text-stroke: 1px grey;
+    font-size: 50px;
+}
+.number-rcard2{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    -webkit-text-stroke: 1px white;
+    font-size: 50px;
+}

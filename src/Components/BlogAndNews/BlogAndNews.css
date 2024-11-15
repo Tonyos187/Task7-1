@@ -1,0 +1,40 @@
+.Blog-div {
+    height: 200px;
+    translate: 0 80%;
+}
+.bg-second-purple{
+    background-color: #18185E !important;
+}
+.bg-main-blue{
+    background-color: #384BFF !important;
+}
+.main-blue{
+    color: #384BFF !important;
+}
+
+.Blog-pic {
+    display: block;
+    top: 34.5%;
+    left: 7%;
+    z-index: 7;
+    overflow-y: hidden;
+}
+
+
+@media (max-width:991px) {
+    .Blog-pic {
+        display: none;
+    }
+
+}
+
+@media (max-width:767px) {
+    .main-div-width {
+        width: 100% !important;
+    }
+
+    .Blog-div {
+        translate: 0 70%;
+    }
+
+}

@@ -1,0 +1,15 @@
+.sm-txt-footer{
+    font-size: 13px;
+}
+.button-footer{
+    translate: -100%;
+}
+.orange-bg{
+    background-color: #F88601 !important;
+}
+
+@media (max-width:767px) {
+    .footer-bot{
+        flex-direction: column;
+    }
+}
